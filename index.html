@@ -1,0 +1,24 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>bloxcrash</title>
+    </head>
+
+    <body>
+
+        <h1 id="xd">?</h1>
+        
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script>
+        <script>
+
+            const xdId = document.getElementById("xd");
+            const params = new URLSearchParams(document.location.search);
+
+            const s = params.get("bloxer1");
+            xdId.innerText = s
+            
+        </script>
+    </body>
+</html>
