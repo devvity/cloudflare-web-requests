@@ -13,9 +13,4 @@ Send web requests on any cloudflare website without captcha detection, as web re
   ```javascript
   Chromedriver (Path directed in enviorment variables)
   ```
-  
-  ## Puppeteer precondition
-    ```javascript
-    * At least 1GB of memory
-    ```
  
