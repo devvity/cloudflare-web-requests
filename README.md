@@ -1,5 +1,6 @@
-# Cloudflare Web Request Bypass
-Misleading cloudflare by using puppeteer client by spoofing web requests as a actual browser.
+# Cloudflare Web Request
+Send web requests on any cloudflare website without captcha detection, as web requests are protected. 
+
 
 ## Packages <h3>
 
